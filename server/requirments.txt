@@ -1,0 +1,15 @@
+throttled
+uvicorn
+apscheduler
+pydantic
+sqlalchemy
+asyncpg
+fastapi[standard]
+httpx
+firebase_admin
+torch
+transformers
+datasets
+scikit-learn
+PyMuPDF
+spacy

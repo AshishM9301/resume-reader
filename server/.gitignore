@@ -1,0 +1,59 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Environment variables
+.env
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Uvicorn
+*.pid
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyright
+pyrightconfig.json
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Firebase
+service-account.json
+
+__pycache__/
+
+# Generated datasets (recreate with: python data_raw/loader.py)
+data_raw/data/
